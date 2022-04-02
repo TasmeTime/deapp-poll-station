@@ -1,6 +1,8 @@
 # Decentralized (DeApp) Poll Station
 
-## I will upload this file when it's done, Alongside with it's youtube tutorial video.
+## I will update this repo as i go forward, Alongside with it's youtube tutorial video.
+
+LIVE VERSION (https://pollstation.m-azad.ir/)
 
 the designs where inspired by Fast Poll (https://fast-poll.com/)
 
@@ -13,4 +15,4 @@ Using
 - MetaMask
 - Web3
 - Styled-Components
-- Framer Motion (to be included
+- Framer Motion
