@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/deapp-poll-station/static/js/main.3ab4740f.chunk.js",
+    "main.js.map": "/deapp-poll-station/static/js/main.3ab4740f.chunk.js.map",
+    "runtime-main.js": "/deapp-poll-station/static/js/runtime-main.d3c1c2d6.js",
+    "runtime-main.js.map": "/deapp-poll-station/static/js/runtime-main.d3c1c2d6.js.map",
+    "static/js/2.fc4f13bc.chunk.js": "/deapp-poll-station/static/js/2.fc4f13bc.chunk.js",
+    "static/js/2.fc4f13bc.chunk.js.map": "/deapp-poll-station/static/js/2.fc4f13bc.chunk.js.map",
+    "static/js/3.005c8926.chunk.js": "/deapp-poll-station/static/js/3.005c8926.chunk.js",
+    "static/js/3.005c8926.chunk.js.map": "/deapp-poll-station/static/js/3.005c8926.chunk.js.map",
+    "index.html": "/deapp-poll-station/index.html",
+    "static/js/2.fc4f13bc.chunk.js.LICENSE.txt": "/deapp-poll-station/static/js/2.fc4f13bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3c1c2d6.js",
+    "static/js/2.fc4f13bc.chunk.js",
+    "static/js/main.3ab4740f.chunk.js"
+  ]
+}
